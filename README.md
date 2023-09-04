@@ -1,0 +1,2 @@
+# dissertation_04_Training_Model
+論文：使用預處理好的資料訓練model
